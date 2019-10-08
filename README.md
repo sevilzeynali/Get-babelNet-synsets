@@ -18,4 +18,4 @@ You need to have a list of french words like our test_dict file. One word per li
 Then we do the queries in babelnet to get the synsetsIds in babelnet.
 With synsetids we can do 3 another queries to get the synsets in 3 languages : arabic, french and english.
 We save these synsets in a different file.
-One file per synset et per language.
+One file per synset and per language.
